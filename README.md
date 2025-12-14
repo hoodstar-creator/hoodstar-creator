@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요! 저는 조율희 (Yulhee Cho)입니다!</h1>
+<h1 align="center">조율희 (Yulhee Cho)입니다!</h1>
 <h3 align="center">알고리즘,프론트 공부중..</h3>
 
 <h3 align="left">Connect with me:</h3>
