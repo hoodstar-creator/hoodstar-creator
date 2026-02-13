@@ -1,5 +1,5 @@
 <h1 align="center">조율희 (Yulhee Cho)입니다!</h1>
-<h3 align="center">알고리즘,프론트 공부중..</h3>
+<h3 align="center">알고리즘,프론트 공부하다 때려친 영상편집자</h3>
 <h4> 한국 디지털 미디어 고등학교 (디미고) 24기 디지털컨텐츠과 <h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
