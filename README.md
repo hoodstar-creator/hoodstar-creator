@@ -20,3 +20,5 @@
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe/adobe-icon.svg" alt="adobe" width="40" height="40"/> </a>
 </p>
+
+[![Solta Stats](https://prod.solta.kr/api/badges/hoodstar-creator)](https://solta.kr/profile/hoodstar-creator)
