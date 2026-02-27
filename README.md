@@ -2,7 +2,7 @@
 <h4> 한국 디지털 미디어 고등학교 (디미고) 24기 디지털컨텐츠과 </h4>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hoodstar1018)](https://solved.ac/hoodstar1018)
-
+[![Solta Stats](https://prod.solta.kr/api/badges/hoodstar-creator)](https://solta.kr/profile/hoodstar-creator)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/yulhee_cho_1018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hoodstar_0122" height="30" width="40" /></a>
