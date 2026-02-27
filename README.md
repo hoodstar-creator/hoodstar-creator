@@ -21,4 +21,4 @@
   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe/adobe-icon.svg" alt="adobe" width="40" height="40"/> </a>
 </p>
 
-[![Solta Stats](https://prod.solta.kr/api/badges/hoodstar-creator)](https://solta.kr/profile/hoodstar-creator)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hoodstar1018)](https://solved.ac/hoodstar1018)
