@@ -1,6 +1,7 @@
 <h1 align="center">조율희 (Yulhee Cho)</h1>
-<h3 align="center">알고리즘,프론트 공부하다 때려친 영상편집자</h3>
 <h4> 한국 디지털 미디어 고등학교 (디미고) 24기 디지털컨텐츠과 </h4>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hoodstar1018)](https://solved.ac/hoodstar1018)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +22,3 @@
   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe/adobe-icon.svg" alt="adobe" width="40" height="40"/> </a>
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hoodstar1018)](https://solved.ac/hoodstar1018)
