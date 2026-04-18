@@ -1,6 +1,10 @@
 <h1 align="center">조율희 (Yulhee Cho)</h1>
 <h4> 한국 디지털 미디어 고등학교 (디미고) 24기 디지털컨텐츠과 </h4>
 
+
+<br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoodstar1018)](https://solved.ac/hoodstar1018)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hoodstar1018)](https://solved.ac/hoodstar1018)
 [![Solta Stats](https://prod.solta.kr/api/badges/hoodstar-creator)](https://solta.kr/profile/hoodstar-creator)
 <h3 align="left">Connect with me:</h3>
